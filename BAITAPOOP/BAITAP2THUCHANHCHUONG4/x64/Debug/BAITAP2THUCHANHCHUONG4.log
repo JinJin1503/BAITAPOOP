@@ -1,0 +1,17 @@
+﻿  Fraction.cpp
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOP\BAITAP2THUCHANHCHUONG4\Fraction.cpp(82,15): error C2084: function 'std::istream &operator >>(std::istream &,Fraction &)' already has a body
+  C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOP\BAITAP2THUCHANHCHUONG4\Fraction.cpp(4,15):
+  see previous definition of '>>'
+  
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOP\BAITAP2THUCHANHCHUONG4\Fraction.cpp(84,12): error C2248: 'Fraction::numerator': cannot access private member declared in class 'Fraction'
+  C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOP\BAITAP2THUCHANHCHUONG4\Fraction.h(10,9):
+  see declaration of 'Fraction::numerator'
+  C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOP\BAITAP2THUCHANHCHUONG4\Fraction.h(8,7):
+  see declaration of 'Fraction'
+  
+C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOP\BAITAP2THUCHANHCHUONG4\Fraction.cpp(86,12): error C2248: 'Fraction::denominator': cannot access private member declared in class 'Fraction'
+  C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOP\BAITAP2THUCHANHCHUONG4\Fraction.h(11,9):
+  see declaration of 'Fraction::denominator'
+  C:\Users\ASUS\OneDrive\Documents\GitHub\BAITAPOOP\BAITAP2THUCHANHCHUONG4\Fraction.h(8,7):
+  see declaration of 'Fraction'
+  
