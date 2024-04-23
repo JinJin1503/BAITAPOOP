@@ -1,3 +1,0 @@
-﻿  Main.cpp
-C:\Users\ASUS\OneDrive\Documents\GitHub\helloword\BAITAPOOP\BAITAP2\Main.cpp(6,65): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
-  BAITAP2.vcxproj -> C:\Users\ASUS\OneDrive\Documents\GitHub\helloword\BAITAPOOP\x64\Debug\BAITAP2.exe
